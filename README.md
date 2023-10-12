@@ -1,11 +1,13 @@
-<img align="right" height="590em" src=""/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kaique Brito</h1>
 
 - 📚 I’m currently studying Information Systems at UFMS
 - 🌱 I’m currently learning HTML, CSS and JS
 
+<img height="290em" src="programmer.gif"/>
+
 <br><br>
+
 
 ## 🛠 &nbsp;Tech Stack
 
