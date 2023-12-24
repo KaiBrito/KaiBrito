@@ -34,7 +34,4 @@
 <a href="https://www.linkedin.com/in/kaique-brito-b45609236/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Kaique Brito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/kaique_britto/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-kaique_britto-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
