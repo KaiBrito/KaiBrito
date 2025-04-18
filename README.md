@@ -1,37 +1,60 @@
+<h1 align="center">Olá, eu sou o Kaique 👋</h1>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kaique Brito</h1>
-
-- 📚 I’m currently studying Information Systems at UFMS
-- 🌱 I’m currently learning HTML, CSS and JS
-
-<img height="290em" src="programmer.gif"/>
-
-<br><br>
-
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=KaiBrito&show_icons=true&theme=vision-friendly-dark" alt="Kaique Brito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiBrito&layout=compact&theme=vision-friendly-dark" alt="Kaique Brito's most languages"/>
+<p align="center">
+  💻 Estudante de <strong>Sistemas de Informação</strong> <br>
+  🚀 Apaixonado por <strong>tecnologia, desenvolvimento de software</strong> e <strong>inovação</strong> <br>
+  🌱 Atualmente aprendendo <strong>TypeScript e Python</strong>
 </p>
 
-<br><br>
+---
 
-## Contact
+## 🧠 Sobre mim
 
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/kaique-brito-b45609236/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Kaique Brito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+Sou estudante de Sistemas de Informação e estou sempre buscando novos desafios para evoluir como desenvolvedor. Gosto de transformar ideias em soluções funcionais e criativas.
+
+- 🎓 Estudando no 7º período de Sistemas de Informação  
+- 🧪 Experiência com projetos acadêmicos, APIs e sistemas web  
+- 📘 Explorando desenvolvimento full stack e análise de dados  
+
+---
+
+## 💻 Stacks e Tecnologias
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+- 📊 [**Trabalho de ED-1**](https://github.com/KaiBrito/trabalho-ED-1) – Estruturas de Dados na prática com C  
+- 📚 [**Código UFMS**](https://github.com/KaiBrito/codigo-ufms) – Projetos e exercícios do curso de Sistemas  
+- ✨ [**ES6**](https://github.com/KaiBrito/ES6) – Praticando JavaScript moderno com conceitos de ES6  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiBrito&layout=compact&langs_count=8&theme=radical"/>
 </p>
+
+---
+
+## 📫 Contato
+
+- 🐙 GitHub: [@KaiBrito](https://github.com/KaiBrito)  
+- 💼 LinkedIn: [linkedin.com/in/kaique-brito-b45609236](https://www.linkedin.com/in/kaique-brito-b45609236/)  
+- 📧 E-mail: [josiaskaique5635@gmail.com](mailto:josiaskaique5635@gmail.com)  
+
+---
+
